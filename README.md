@@ -1,2 +1,2 @@
 # newtonfractal
-Creates newton fractals with customisable colors and parameters
+Creates newton fractals with customisable colors and parameters (WIP)
