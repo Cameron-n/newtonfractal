@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "newtonfractal"
+version = "0.0.1"
+authors = [
+  { name="Cameron-n", email="" },
+]
+description = "Creates newton fractals with customisable colors and parameters"
+readme = "README.md"
+requires-python = ">=3.11"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/cameron-n/newtonfractal"
+Issues = "https://github.com/cameron-n/newtonfractal/issues"
+Documentation = ""
